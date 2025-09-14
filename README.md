@@ -35,7 +35,7 @@ This chart shows the authors who have written the most articles on the topic.
 
 ### 2. Sentiment of Headlines Over Time
 This timeline shows the average sentiment (positive or negative) of the headlines each month, revealing trends in the tone of coverage.
-![Sentiment Timeline Chart]([sentiment analysis.png](https://github.com/Arrayar/news-article-sentiment-analysis/blob/main/sentiment%20analysis.png))
+![alt text](https://github.com/Arrayar/news-article-sentiment-analysis/blob/main/sentiment%20analysis.png?raw=true)
 
 
 
