@@ -31,7 +31,7 @@ This project analyzes the sentiment of news articles from The Guardian API relat
 
 ### 1. Top Authors by Article Count
 This chart shows the authors who have written the most articles on the topic.
-![Top Authors Chart]([Author count bar chart .png](https://github.com/Arrayar/news-article-sentiment-analysis/blob/main/Author%20count%20bar%20chart%20.png))
+![alt text](https://github.com/Arrayar/news-article-sentiment-analysis/blob/main/Author%20count%20bar%20chart%20.png?raw=true)
 
 ### 2. Sentiment of Headlines Over Time
 This timeline shows the average sentiment (positive or negative) of the headlines each month, revealing trends in the tone of coverage.
